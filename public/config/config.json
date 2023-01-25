@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8c4545FbCccAC89D7C7008bF9e26aB6acaa41BCd",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x8c4545FbCccAC89D7C7008bF9e26aB6acaa41BCd",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "NFT",
+  "SYMBOL": "YGBS",
+  "MAX_SUPPLY": 45,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/random-nfts-jgtoan4af0",
+  "SHOW_BACKGROUND": true
+}
